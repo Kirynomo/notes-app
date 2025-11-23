@@ -13,7 +13,7 @@ It allows users to:
 
 ## 🔗 Live Demo
 
-- 👉 GitHub Live Link: [Add your link here]
+- 👉 GitHub Live Link: [https://kirynomo.github.io/notes-app/]
 
 ## 🚀 Features
 
