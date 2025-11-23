@@ -1,44 +1,32 @@
-📝 Notes App
+## 📝 Notes App
 
-A simple and lightweight Notes App built with HTML, CSS, and JavaScript.
+- A simple and lightweight Notes App built with HTML, CSS, and JavaScript.
 It allows users to:
 
-✔️ Add notes
+- ✔️ Add notes
 
-✔️ Save notes automatically using localStorage
+- ✔️ Save notes automatically using localStorage
 
-✔️ Delete notes using a trash icon
+- ✔️ Delete notes using a trash icon
 
-Your notes stay saved even after refreshing the page!
+- Your notes stay saved even after refreshing the page!
 
-🔗 Live Demo
+## 🔗 Live Demo
 
-👉 GitHub Live Link: [Add your link here]
+- 👉 GitHub Live Link: [Add your link here]
 
-🚀 Features
+## 🚀 Features
 
-Minimal UI
+- Minimal UI
 
-Auto-save with localStorage
+- Auto-save with localStorage
 
-Easy note deletion
+- Easy note deletion
 
-Fully responsive
+## 🛠️ Technologies
 
-📦 How to Use
+- HTML
 
-Type your note in the text area.
+- CSS
 
-Click Add Note.
-
-Notes appear instantly and are saved automatically.
-
-Click the 🗑️ delete icon to remove a note.
-
-🛠️ Technologies
-
-HTML
-
-CSS
-
-JavaScript (localStorage)
+- JavaScript (localStorage)
